@@ -5,7 +5,7 @@ In this assignment, I implemented the two types of clustering methods, Lloyd’s
 
 • Hierarchical Agglomerative Clustering: used two dissimilarity measures between clusters(single linkage and average linkage) to implement the hierarchical clustering with skilearn.
 
-# Clustering Plots
+# Plots of Clustering Results
 
 
 
