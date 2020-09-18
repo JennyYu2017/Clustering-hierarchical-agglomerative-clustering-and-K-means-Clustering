@@ -7,6 +7,15 @@ In this assignment, I implemented the two types of clustering methods, Lloyd’s
 
 # Plots of Clustering Results
 
+Dataset 1 K-means
 
+
+Dataset 2 using K-means
+
+
+Dataset 1 using hierarchical
+
+
+Dataset 2 using hierarchical
 
 
